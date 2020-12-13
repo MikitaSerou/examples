@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<category>
+    <name>Lactic</name>
+    <products>
+        <product>
+            <name>Milk</name>
+            <price>50</price>
+            <countOfcalories>100.0</countOfcalories>
+        </product>
+    </products>
+</category>

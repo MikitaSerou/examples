@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<category>
+    <name>Sweet</name>
+    <products>
+        <product>
+            <name>Chocolate</name>
+            <price>100</price>
+            <countOfcalories>400.0</countOfcalories>
+        </product>
+        <product>
+            <name>Biscuit</name>
+            <price>200</price>
+            <countOfcalories>600.0</countOfcalories>
+        </product>
+    </products>
+</category>

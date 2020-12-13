@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<category>
+    <name>Vegetables</name>
+    <products>
+        <product>
+            <name>Carrot</name>
+            <price>10</price>
+            <countOfcalories>5.0</countOfcalories>
+        </product>
+        <product>
+            <name>Onion</name>
+            <price>15</price>
+            <countOfcalories>10.0</countOfcalories>
+        </product>
+    </products>
+</category>

@@ -3,8 +3,28 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="faacdb56-6cc0-4f61-a634-36700a99efc3" name="Default Changelist" comment="" />
+    <list default="true" id="faacdb56-6cc0-4f61-a634-36700a99efc3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +56,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.java" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -46,6 +67,9 @@
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$APPLICATION_CONFIG_DIR$/extensions/com.intellij.java" />
     </key>
   </component>
   <component name="RunManager">
@@ -71,11 +95,37 @@
       <option name="presentableId" value="Default" />
       <updated>1607872843812</updated>
       <workItem from="1607872844950" duration="2886000" />
+      <workItem from="1607875736008" duration="262000" />
+      <workItem from="1608047517442" duration="559000" />
     </task>
+    <task id="LOCAL-00001" summary="Xml and Json">
+      <created>1607875988022</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607875988022</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Xml and Json" />
+    <option name="LAST_COMMIT_MESSAGE" value="Xml and Json" />
   </component>
   <component name="WindowStateProjectService">
     <state x="461" y="261" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1607872991698">
@@ -102,5 +152,9 @@
       <screen x="0" y="20" width="1366" height="748" />
     </state>
     <state width="1320" height="199" key="GridCell.Tab.0.right/0.20.1366.748@0.20.1366.748" timestamp="1607875732707" />
+    <state x="279" y="133" key="Vcs.Push.Dialog.v2" timestamp="1607875992181">
+      <screen x="0" y="20" width="1366" height="748" />
+    </state>
+    <state x="279" y="133" key="Vcs.Push.Dialog.v2/0.20.1366.748@0.20.1366.748" timestamp="1607875992181" />
   </component>
 </project>

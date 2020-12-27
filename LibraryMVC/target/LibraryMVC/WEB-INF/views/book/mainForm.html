@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <!--    <link th:href="@{../css/style.css}" rel="stylesheet" type="text/css">-->
+    <title>Books</title>
+</head>
+<body>
+<!--        <form action="/book/showBook" method="get">-->
+<!--            <select name="bookId">-->
+<!--                <option th:each="book : ${books}"-->
+<!--                        th:value="${book.id}"-->
+<!--                        th:text="${book.name}">-->
+<!--                </option>-->
+<!--            </select>-->
+<!--            <button type="submit">Show book authors</button>-->
+<!--        </form>-->
+<!--        <p/>-->
+<!--        <form action="/library" method="get">-->
+<!--            <button type="submit">Return to main page</button>-->
+<!--        </form>-->
+<p/>
+<text><b>Enter the title of the book:</b></text>
+<p/>
+<form action="/book/showBookByName" method="get">
+    <input name="bookName" size="20">
+    <button type="submit">Show book authors</button>
+
+    <p/>
+
+    <form action="/library" method="get">
+        <button type="submit">Return to main page</button>
+    </form>
+</form>
+
+
+
+
+</body>
+</html>

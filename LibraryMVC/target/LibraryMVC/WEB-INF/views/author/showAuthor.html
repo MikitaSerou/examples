@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <!--    <link href="../css/style.css" th:href="@{/WEB-INF/views/css/style.css}" rel="stylesheet" media="all" />-->
+    <title>Author</title>
+</head>
+<body>
+<p><b>Author: </b></p>
+<fieldset>
+    <text th:text="${selectedAuthor.getName()}">Author</text>
+</fieldset>
+
+<p><b>Books:</b></p>
+<fieldset>
+    <tr th:each="author : ${selectedAuthor.getBooks()}">
+        <p>
+            <text th:text="${author.name}">book</text>
+        </p>
+    </tr>
+</fieldset>
+<p/>
+<form action="/author" method="get">
+    <button type="submit">Return back</button>
+</form>
+</body>
+
+</html>
